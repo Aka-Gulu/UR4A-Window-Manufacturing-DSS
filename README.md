@@ -6,7 +6,7 @@
 [Presentation video link](https://drive.google.com/file/d/1madBGUTI6_453hEE7OGBcnkW1289v0_V/view?usp=sharing)
 
 ## General Description
-This repository contains the final project for the "Using R for Analytics" (MGMT 590) course. The project involves developing a Shiny application that serves as a Decision Support System (DSS) to help identify optimal manufacturing process settings, suppliers, and customer window specifications to reduce the window breakage rate. The project demonstrates the integration of descriptive, predictive, and prescriptive analytics using R libraries and functions.
+This project involves developing a Shiny application that serves as a Decision Support System (DSS) to help identify optimal manufacturing process settings, suppliers, and customer window specifications to reduce the window breakage rate. The project demonstrates the integration of descriptive, predictive, and prescriptive analytics using R libraries and functions.
 
 ## Project Description
 The Shiny app developed in this project aims to provide actionable insights and recommendations to window manufacturing technicians. It leverages interactive data analytics to support decision-making and improve manufacturing processes. The application includes the following components:
